@@ -1,0 +1,28 @@
+   #cabecalho{
+	   background-color:grey;
+	   text-align:center;
+   }
+   
+   #corpo1 {
+	   background-color:lightgrey;
+	   text-align:center;
+   }
+
+	 #corpo1 table{
+     margin-left:auto;
+     margin-right:auto;
+     }	
+
+    #corpo2{
+     margin:20px;
+	 margin-left:0;
+	 margin-right:0;
+	 display:block;
+	 background-color:lightgrey;
+	}	 
+     #rodape{margin:100px;
+		 text-align:center;
+		 margin-left:0  auto;
+		 margin-right:0 auto;
+		 background-color:grey;
+	 }
